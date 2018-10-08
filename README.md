@@ -20,8 +20,7 @@
 
 ### Prerequisites
 
- * Java JDK 8
- * Gradle
+ * Js knowledge
  * Must have some prior knowledge of Java
 
 ### Technologies used
