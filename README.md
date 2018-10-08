@@ -2,6 +2,9 @@
 
 ### By Ephantus Mwangi
 
+## About
+   This is an app that enable users to search and view people found in Github and view their repositories.
+
 ## Description
 
     In "cryptography", a Caesar cipher is one of the simplest and most widely known encryption techniques, which this Java App ustilises.
